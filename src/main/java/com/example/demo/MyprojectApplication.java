@@ -8,7 +8,7 @@ public class MyprojectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MyprojectApplication.class, args);
-		System.out.println("SDP Project Running......!!");
+		System.out.println("SDP Git Project Running......!!");
 	}
 
 }
